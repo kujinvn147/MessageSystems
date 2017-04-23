@@ -1,0 +1,21 @@
+###################### THÔNG TIN #######################
+# Version: 1.0 - Races                                 #
+# Big update: 2.0 - MessageSystem (Recode by Explorer) #
+########################################################
+
+# CONFIG:
+prefix: '&7[&eMinetopia VN&7] &r> '
+# Đây là prefix của plugin
+
+race-prefix: '&7[&cRaces&7] &r> '
+# Đây là prefix thứ 2
+
+msg:
+  cant-using-warp: '&cMáy chủ không sử dụng &f/warp&c. Vui lòng quay lại spawn click vào NPC &5&lDỊCH CHUYỂN &cđể dịch chuyển'
+  # Không thể sử dụng /warp
+  
+  didnt-have-races: '&cBạn chưa gia nhập chủng tộc!'
+  # Không có races
+  
+  is-op: '&cXin lỗi! Bạn là admin nên không thể kiểm tra!'
+  # Nếu có là admin
