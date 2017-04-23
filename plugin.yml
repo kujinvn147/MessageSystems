@@ -1,0 +1,13 @@
+name: MessageSystem
+version: 2.0
+author: Explorer
+main: message.system.recode.Main
+
+commands:
+  races:
+    description: Show display help
+    usage: /<command>
+    aliases: [race, chungtoc]
+  trash:
+    description: Trash
+    usage: /<command>
